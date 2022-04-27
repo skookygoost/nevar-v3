@@ -1,0 +1,38 @@
+{
+ "yes": "Yes",
+ "no": "No",
+
+ "dateformat": "DD.MM.yyyy, HH:mm:ss",
+ "onlyDateFormat": "DD.MM.yyyy",
+ "timezone": "Europe/UK",
+ "language": "English",
+
+ "activated": "Activated",
+ "deactivated": "Deactivated",
+ "cancelled": "{emotes.error} The action was aborted",
+
+ "noEntries": "No entries available",
+ "notFound": "Not found",
+ "error": "{emotes.error} An unexpected error occurred. Please join our [Supportserver]({support})",
+
+ "set": "\uD83C\uDDE9\uD83C\uDDEA My language has been set to English. Please note: it may take a moment for the language to update for the slash commands",
+ "wait": "{emotes.loading} Please wait a moment...",
+
+ "usage": "{emotes.error} You have provided incorrect or no arguments required for this command. The syntax for this command is:\n```vb\n{syntax}```\n{emotes.arrow} Here are examples of the correct usage:\n```vb\n{example}`` `",
+
+ "collectors": {
+  "action": "{emotes.arrow} Choose an action",
+  "id": "{emotes.arrow} Send the ID",
+  "channel": "{emotes.arrow} Send the Channel",
+  "user": "{emotes.arrow} Send the Member",
+  "role": "{emotes.arrow} Send the Role",
+  "time": "{emotes.arrow} Send the time\n{emotes.arrow} Here are some examples of how to send the time:\n```|- 5d = 5 days\n|- 3m = 3 minutes\n|- 1h = 1 hour\ n|- 1w = 1 week\n|- 5s = 5 seconds```"
+ },
+ "invalid": {
+  "time": "{emotes.error} You must enter a valid time. The action has been cancelled",
+  "channel": "{emotes.error} You must provide a valid channel specification. The action has been cancelled",
+  "id": "{emotes.error} You must provide a valid ID. The action was canceled",
+  "user": "{emotes.error} You must provide valid member information. The action has been cancelled",
+  "role": "{emotes.error} You must provide a valid role specification. The action has been canceled"
+ }
+}
