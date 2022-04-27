@@ -1,0 +1,16 @@
+{
+  "ignoredCmd": "{emotes.error} The command is disabled on this Discord server",
+  "botPermsMissing": "{emotes.error} I'm missing the following permissions:\n```{perms}```",
+  "memberPermsMissing": "{emotes.error} You are missing the following permissions:\n```{perms}```",
+  "nsfwCommand": "{emotes.error} The command only works in NSFW channels",
+  "disabledCommand": "{emotes.error} The command is currently globally disabled - here are possible reasons why:\n```|- causes errors\n|- is exploitable to your advantage/detriment of others\n| - contains errors and is therefore not usable```\n{emotes.arrow} If you have any questions, you can always join our [support server]({support})",
+  "ownerCommand": "{emotes.error} The command is only usable by my creator",
+  "staffCommand": "{emotes.error} The command is only usable for {client} staffs",
+  "premiumCommand": "{emotes.error} The command can only be used with the premium version of {client}\n{emotes.arrow} As soon as you reach level 5 on our [support server]({support}) we will leave you a premium - Key coming",
+  "remainingCooldown": "{emotes.error} Take it easy. You can use the command again in {time} ?second?seconds?",
+  "unknownError": "{emotes.error} Hmm, something went wrong. Contact the [support server]({support}), we can help you there",
+  "botPing": "{emotes.arrow} [Hey {user}. How can I help you?|At your service {user}. How can I help?|Hola {user} - how are you?|How can I help you help {user}?|What's up {user}?|What can I do for you {user}?] My prefix here is **{prefix}**\n{emotes.arrow} I also offer as an alternative to normal commands slash commands on",
+  "premiumKey": "{emotes.success} Hey {user}. I see you just reached level 5 on my support server. As a little thank you, I'm giving you a key for the {client} premium version: {key}" ,
+  "notYourInteraction": "{emotes.error} You cannot use this interaction"
+}
+
